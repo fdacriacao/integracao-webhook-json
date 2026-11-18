@@ -1,0 +1,11 @@
+{
+  "name": "integracao-webhook-json",
+  "version": "1.0.0",
+  "description": "Recebe webhooks de mensagens, valida o JSON e normaliza para um formato único (exemplo didático).",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/demo.js"
+  },
+  "license": "MIT"
+}
