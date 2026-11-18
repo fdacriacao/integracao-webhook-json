@@ -1,0 +1,15 @@
+{
+  "entry": [
+    {
+      "changes": [
+        {
+          "value": {
+            "messages": [
+              { "id": "wamid.EXEMPLO1", "from": "5522999990000", "timestamp": "1760000000", "text": { "body": "  Olá, quero agendar uma revisão  " } }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
